@@ -1,3 +1,4 @@
+*INFO* 
 abtesting.roblox.com	Endpoints for the A/B Testing framework
 accountinformation.roblox.com	All endpoints for acessing/modifying account information
 accountsettings.roblox.com	All endpoints for account/user settings
